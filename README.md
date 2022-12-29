@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full-stack developer
+I am Full-stack Developer.
 
-I have been developing websites, web, and mobile applications since 2016. During this time, not only have I gained an immense amount of hands-on experience, but I have also grown significantly as a developer.
+I have been developing websites, web, and mobile applications since 2017. During this time, not only have I gained an immense amount of hands-on experience, but I have also grown significantly as a developer.
 My areas of expertise are
 
 - Web: HTML, CSS, SCSS, SASS, Less, Bootstrap, W3CSS, TailWind, JavaScript, TypeScript, jQuery,
